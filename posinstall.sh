@@ -18,7 +18,7 @@ sudo apt install git -y ;
 sudo apt install nodejs npm -y ;
 sudo apt python3 -y ;
 sudo apt install apache2 mysql-server php php-mysql libapache2-mod-php -y ;
-sudo apt install phpmyadmin ;
+sudo apt install phpmyadmin -y ;
 
 
 ## Instalando pacotes Snap ##
